@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "name": "HTML",
+        "image": "https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png",
+        "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables."
+    },
+    {
+        "id":"2",
+        "name": "CSS",
+        "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png",
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+    },
+    {
+        "id":"3",
+        "name": "Javascript",
+        "image": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+        "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well."
+    },
+    {
+        "id":"4",
+        "name": "jQuery",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jquery-icon.svg/1200px-Jquery-icon.svg.png",
+        "details": "jQuery is a lightweight, write less, do more, JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code."
+    },
+    {
+        "id":"5",
+        "name": "Bootstrap",
+        "image": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
+        "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+    },
+    {
+        "id":"6",
+        "name": "Tailwind Css",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--neFmc7k8--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/9w1d71e00a6xdltour1s.png",
+        "details": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application."
+    }
+]
